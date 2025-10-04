@@ -6,6 +6,10 @@
 
 # Certificates
 
+## Department of Education and Training
+### Retail Assistant/Supervisor Traineeship
+*September 2017*
+
 ## EnGenius
 ### EnGenius Certified Network Specialist
 *Janurary 2024*
