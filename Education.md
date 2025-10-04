@@ -1,7 +1,7 @@
 # Education
 
 ## CQU University
-### Bachelor of Information Technology - Network Security major (In progress)
+### CQ18 Bachelor of Information Technology - Network Security major (In progress)
 *April 2019 - October 2025*
 
 Completed units:
