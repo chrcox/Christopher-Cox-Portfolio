@@ -44,6 +44,11 @@ Currently enrolled units:
 - Term 2 2025
   - MGMT13151 Entrepreneurship, Innovation and Start-ups
   - COIT13236 Cyber Security Project
+ 
+Letter of commendations received for:
+- Term 2 2019
+- Term 3 2019
+- Term 2 2022
 
 # Certificates
 
