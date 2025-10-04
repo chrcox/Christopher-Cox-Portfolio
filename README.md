@@ -6,16 +6,17 @@ Pronouns: he/him
 
 DOB: 25/03/1997
 
-Distance Student at Central Queensland University
-
-Student ID: 12116377
-
 Email: c.j.cox@cqumail.com
 
 Residence: Mackay, QLD
 
 ### Education
-CQ18 Bachelor of Information Technology - Network Security major (*In Progress*)
+
+Distance Student at CQU University
+
+Student ID: 12116377
+
+Degree: CQ18 Bachelor of Information Technology - Network Security major (*In Progress*)
 
 Current GPA: 5.167
 
