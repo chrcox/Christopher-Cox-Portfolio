@@ -1,0 +1,6 @@
+# Projects
+
+## 2025
+
+### COIT13236 - Deploying and Evaluating Wazuh for Network Security Monitoring in ICT Environments 
+NOTE: ASSESSMENT CURRENTLY IN PROGRESS, PROJECT CANNOT BE UPLOADED UNTIL PROJECT IS ASSESSED AND CONFIRMATION IS RECEIVED
