@@ -3,11 +3,14 @@
 ## Christopher Cox
 ### Personal information
 DOB: 25/03/1997
+Student ID: 12116377
+Email: c.j.cox@cqumail.com
 
 Residence: Mackay, QLD
 
 ### Education
-Bachelor of Information Technology - Network Security major (*In Progress*)
+CQ18 Bachelor of Information Technology - Network Security major (*In Progress*)
+Current GPA: 5.167
 
 ### Employment
 Technician at Elevate (*2020 - Present*)
