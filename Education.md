@@ -3,7 +3,9 @@
 ## CQU University
 ### Bachelor of Information Technology - Network Security major (In progress)
 *April 2019 - October 2025*
+
 Completed units:
+
 - Term 2 2019
   - COIT11239 Professional Communications Skills for ICT (High Distinction)
   - COIT11226 Systems Analysis (High Distinction)
@@ -38,6 +40,7 @@ Completed units:
   - COIS13034 Cloud Based Smart Applications Management (High Distinction)
  
 Currently enrolled units:
+
 - Term 2 2025
   - MGMT13151 Entrepreneurship, Innovation and Start-ups
   - COIT13236 Cyber Security Project
