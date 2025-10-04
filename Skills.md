@@ -1,0 +1,25 @@
+# Skills
+
+- Customer service
+- On-site support (local and regional)
+- Remote support
+- Breakfix support
+  - Computers and workstations
+  - Servers
+  - ATMs
+  - TCRs
+  - Assisted checkouts
+  - Coin counting machines
+- Network installation
+  - Servers
+  - Routers
+  - Firewalls
+  - Switches
+  - Access points
+- Network diagnosis
+- Network documentation
+- SIEM agent deployment
+- Teamwork
+- Leadership
+- Delegation of tasks
+- Project management
