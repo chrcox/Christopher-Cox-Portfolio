@@ -13,4 +13,4 @@ Bachelor of Information Technology - Network Security major (*In Progress*)
 Technician at Elevate (*2020 - Present*)
 
 ### Projects
-COIT13236 Project - Deploying and Evaluating Wazuh for Network Security Monitoring in ICT Environments
+COIT13236 Project - Deploying and Evaluating Wazuh for Network Security Monitoring in ICT Environments (*2025 - Present*)
